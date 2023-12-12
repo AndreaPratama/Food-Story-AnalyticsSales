@@ -8,41 +8,7 @@ This project revolves around analyzing sales data for Food Story, utilizing Powe
 ## Problem Statement
 Understanding sales trends, customer preferences, and peak ordering times is crucial for optimizing business strategies. The project addresses these challenges through data analysis and visualization.
 
-### 1. Customer Data
-   - Display total sales by customer name.
-   - Present figures for total orders and total users, categorized by sales type.
-   - Utilize visual cards to showcase total customers and total orders.
-   - ncorporate a text-box to articulate insights derived from the gathered information.
-
-### 2. Sales Report [Branch Level]
-   - Implement filters for dates and branch names.
-   - Utilize visual cards to illustrate the total bill and grand total.
-   - Visualize time-series data for grand total and total bill in a single chart.
-   - Explore the busiest times for orders through figures.
-   - Compare grand totals for weekdays (Mon, Tues, Wed, Thurs) vs weekends (Fri, Sat, Sun).
-   - Identify branches contributing the most to grand totals.
-   - Integrate a text-box to document insights and recommendations based on the obtained information.
-
-### 3. Sales Report [Menu Level]
-   - Apply filters for arrival date, city, and destination.
-   -  Illustrate figures indicating the quantity and revenue of frequently sold menu items.
-   - Utilize a decomposition tree to showcase the hierarchy: category menu -> category detail menu -> menu.
-   - isplay figures highlighting the contribution of each menu by revenue.
-   - Utilize a scatter plot to investigate the correlation between cheaper menu prices and quantity.
-   - Utilize a text-box to articulate insights and recommendations derived from the accumulated data.
-
-### 4. Sales Report [Customer Level]
-   - Implement filters for date, branch name, city, and purpose of visit.
-   - Utilize visual cards to display sales orders and grand totals.
-   - Visualize time-series data for grand total and total bill in a consolidated chart.
-   - Present figures comparing orders with promotions vs. no promotions (excluding "*Open bill discount").
-   - Showcase figures indicating high-contributing promotions not included without promotion, excluding "No Promotion" and "*Open bill discount."
-   - Explore the busiest order times through figures.
-   - ompare weekday grand totals (Mon, Tues, Wed, Thurs) vs weekend grand totals (Fri, Sat, Sun).
-   - Identify branches contributing the most to grand totals.
-   - Leverage a text-box to document insights and recommendations based on the gathered information.
-
-## 3. Skills Demonstrated
+## Skills Demonstrated
 - Power BI Dashboard Design
 - Data Analysis Expressions (DAX) Utilization
 - Page Navigation
@@ -106,6 +72,40 @@ Utilizing DAX, various measures and calculations were implemented to derive mean
 ## Analyze & Visualization
 Power BI was employed to design insightful dashboards, allowing stakeholders to explore the data visually. The analysis includes identifying customer preferences, peak ordering times, and menu performance.
 
+### 1. Customer Data
+   - Display total sales by customer name.
+   - Present figures for total orders and total users, categorized by sales type.
+   - Utilize visual cards to showcase total customers and total orders.
+   - ncorporate a text-box to articulate insights derived from the gathered information.
+
+### 2. Sales Report [Branch Level]
+   - Implement filters for dates and branch names.
+   - Utilize visual cards to illustrate the total bill and grand total.
+   - Visualize time-series data for grand total and total bill in a single chart.
+   - Explore the busiest times for orders through figures.
+   - Compare grand totals for weekdays (Mon, Tues, Wed, Thurs) vs weekends (Fri, Sat, Sun).
+   - Identify branches contributing the most to grand totals.
+   - Integrate a text-box to document insights and recommendations based on the obtained information.
+
+### 3. Sales Report [Menu Level]
+   - Apply filters for arrival date, city, and destination.
+   -  Illustrate figures indicating the quantity and revenue of frequently sold menu items.
+   - Utilize a decomposition tree to showcase the hierarchy: category menu -> category detail menu -> menu.
+   - isplay figures highlighting the contribution of each menu by revenue.
+   - Utilize a scatter plot to investigate the correlation between cheaper menu prices and quantity.
+   - Utilize a text-box to articulate insights and recommendations derived from the accumulated data.
+
+### 4. Sales Report [Customer Level]
+   - Implement filters for date, branch name, city, and purpose of visit.
+   - Utilize visual cards to display sales orders and grand totals.
+   - Visualize time-series data for grand total and total bill in a consolidated chart.
+   - Present figures comparing orders with promotions vs. no promotions (excluding "*Open bill discount").
+   - Showcase figures indicating high-contributing promotions not included without promotion, excluding "No Promotion" and "*Open bill discount."
+   - Explore the busiest order times through figures.
+   - ompare weekday grand totals (Mon, Tues, Wed, Thurs) vs weekend grand totals (Fri, Sat, Sun).
+   - Identify branches contributing the most to grand totals.
+   - Leverage a text-box to document insights and recommendations based on the gathered information.
+
 ### In this project there are 4 pages :
 - Customer Data
 - Branch Level
@@ -157,5 +157,8 @@ Power BI was employed to design insightful dashboards, allowing stakeholders to 
 - Time-Series Grand Total and Total Bill:
 
   Sales trends show fluctuations, with some months recording significant grand total and total bills.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This project provided deep insights into Food Story's sales performance from various dimensions, providing a basis for better decision-making and business improvement strategies.
