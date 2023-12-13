@@ -15,6 +15,7 @@ Understanding sales trends, customer preferences, and peak ordering times is cru
 - Filters
 - Button
 - Data Transformation Techniques
+- Data Claning
 - Modeling for Insightful Analytics
 - Effective Data Visualization Strategies
 
