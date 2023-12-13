@@ -112,7 +112,7 @@ Power BI was employed to design insightful dashboards, allowing stakeholders to 
 - Customer Level
 - Detailed Menu
 
-### You can interact with Report Here _https://www.novypro.com/project/food-story_
+### You can interact with Report Here _[Novypro](https://www.novypro.com/project/food-story)_
 
 ## Conclusion & Recomendation
 
