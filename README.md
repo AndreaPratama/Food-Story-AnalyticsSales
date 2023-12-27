@@ -3,7 +3,7 @@
 ![](foodstory_hero.jpg)
 
 ## Introduction
-This project revolves around analyzing sales data for Food Story, utilizing Power BI and DAX for comprehensive insights. The objective is to enhance decision-making processes and identify opportunities for revenue growth.
+The Food Story project explored and analyzed sales data from various aspects, from customer,branches to menu details. The project provided deep insights into Food Story's sales performance from various dimensions, providing a basis for better decision-making and business improvement strategies.
 
 ## Problem Statement
 Understanding sales trends, customer preferences, and peak ordering times is crucial for optimizing business strategies. The project addresses these challenges through data analysis and visualization.
